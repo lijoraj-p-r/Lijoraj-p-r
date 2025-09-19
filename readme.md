@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alijoraj-p-r&theme=gruvbox&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lijoraj-p-r&theme=gruvbox&hide_border=false" />
 </p>
 
 ---
