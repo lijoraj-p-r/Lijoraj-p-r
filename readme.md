@@ -108,7 +108,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@lijoraj+%7C+@CodingisFun;lijorajpr321@gmail.com;LijoRaj✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@lijoraj_p_r+%7C+@CodingisFun+@DoFollow\:);lijorajpr321@gmail.com;LijoRaj✌️👨‍💻" alt="Typing SVG" />
 </p>
 
 <!-- Made with ❤️ by LijoRaj  -->
