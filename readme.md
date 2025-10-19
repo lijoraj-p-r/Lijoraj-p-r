@@ -89,13 +89,6 @@
 
 ---
 
-### 🧩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijoraj-p-r&theme=react-dark&hide_border=true" />
-</p>
-
----
 
 ### ✍️ Dev Quote
 
