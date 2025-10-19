@@ -75,10 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijoraj-p-r&theme=gruvbox&layout=compact&hide_border=false" height="165px"/>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lijoraj-p-r&theme=gruvbox&hide_border=false" />
-</p>
-
 ---
 
 ### 📌 Top Contributed Repo
