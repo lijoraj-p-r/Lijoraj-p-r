@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm LijoRaj P R</h1>
+<h1 align="center">Hi 👋, I'm Lijoraj P R</h1>
 <h3 align="center">Aspiring Full Stack Developer | Graphic Designer</h3>
-<h6 align="center">Hello, I am LijoRaj P R, a  Full Stack Software Engineer based in Kerala, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
+<h6 align="center">Hello, I am Lijoraj P R, a  Full Stack Software Engineer based in Kerala, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;" alt="Typing SVG" />
@@ -19,7 +19,6 @@
 - 🔨 I’m currently working on a **React portflio**
 - 🌱 Currently exploring **React**, **MongoDB**, **Python**, and **AWS Cloud Services**
 - 📫 Reach me at: **[Portfolio Website](https://lijoraj-p-r.github.io/myportfolio/)**
-- 🎯 Fun fact: _Doing coding just for funnnn :)))_
 
 ---
 
@@ -74,7 +73,6 @@
 
 ---
 
-
 ### ✍️ Dev Quote
 
 <p align="center">
@@ -86,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@lijoraj-p-r+%7C+@CodingIsFun;lijorajpr321@gmail.com;LijoRaj✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@lijoraj-p-r+%7C+@CodingIsFun;lijorajpr321@gmail.com;Lijoraj✌️👨‍💻" alt="Typing SVG" />
 </p>
 
-<!-- Made with ❤️ by LijoRaj  -->
+<!-- Made with ❤️ by Lijoraj  -->
