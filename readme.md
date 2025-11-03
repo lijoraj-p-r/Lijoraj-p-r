@@ -63,14 +63,6 @@
 
 ---
 
-### 📌 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=lijoraj-p-r&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ### ✍️ Dev Quote
 
 <p align="center">
