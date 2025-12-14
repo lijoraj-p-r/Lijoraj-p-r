@@ -1,5 +1,5 @@
 <head>
-  <meta name="google-site-verification" content="5XPIvItAqVK290Nt-KTmU8WjLyFyvAS7l9yLrWf9044"/>
+  <meta name="google-site-verification" content="5XPIvItAqVK290Nt-KTmU8WjLyFyvAS7l9yLrWf9044" />
 </head>
 <h1 align="center">Hi 👋, I'm Lijoraj P R</h1>
 <h3 align="center">Aspiring Full Stack Developer | Graphic Designer</h3>
