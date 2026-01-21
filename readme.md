@@ -6,7 +6,7 @@
 <h6 align="center">Hello, I am Lijoraj P R, a  Full Stack Software Engineer based in Kerala, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;QA+Automation+Engineer;Graphic+Designer;React+•+Node.js+•+Selenium" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -48,6 +48,12 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+#### 🧪 Testing & QA
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF7E00?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🖼️ Creative Tools
 
