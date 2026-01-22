@@ -63,7 +63,15 @@
 
 ---
 
-### ✍️ Dev Quote
+## 📊 Activity & Technical Stack
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lijoraj-p-r&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijoraj-p-r&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
