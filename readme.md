@@ -13,17 +13,17 @@
   </a>
 </div>
 
----
 
-### 👨‍💻 About Me
+
+## 👨‍💻 About Me
 
 - 🔨 I’m currently working on a **React portflio**
 - 🌱 Currently exploring **React**, **MongoDB**, **Python**, and **AWS Cloud Services**
 - 📫 Reach me at: **[Portfolio Website](https://lijoraj-p-r.github.io/myportfolio/)**
 
----
+<br>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 #### 🚀 Languages
 
@@ -59,6 +59,7 @@
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+<br>
 
 
 ## 📊 Activity & Technical Stack
