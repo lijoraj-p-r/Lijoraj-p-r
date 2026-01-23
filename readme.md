@@ -1,6 +1,4 @@
-<head>
-  <meta name="google-site-verification" content="5XPIvItAqVK290Nt-KTmU8WjLyFyvAS7l9yLrWf9044" />
-</head>
+
 <h1 align="center">Hi 👋, I'm Lijoraj P R</h1>
 <h3 align="center"> Aspiring Full Stack Developer | QA Automation Engineer | Graphic Designer </h3>
 <h6 align="center">Hello, I am Lijoraj P R, a  Full Stack Software Engineer based in Kerala, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
@@ -70,7 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijoraj-p-r&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
----
+
 ## ✍️ Dev Quote
 
 <p align="center">
