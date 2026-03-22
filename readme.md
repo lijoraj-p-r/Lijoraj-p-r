@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Lijoraj P R</h1>
 <h3 align="center">Aspiring Java Full Stack Developer | Spring Boot | REST APIs</h3>
-<h6 align="center">Hello, I am Lijoraj P R, a  Full Stack Software Developer from India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
+<h6 align="center">
+Hello, I am Lijoraj P R, an aspiring Java Full Stack Developer from India. I focus on solving real-world problems by building scalable, efficient, and user-centric web applications using modern technologies. I enjoy tackling complex challenges, optimizing performance, and continuously improving my skills in software development. I am eager to contribute to impactful projects and collaborate with teams to create meaningful solutions. Feel free to connect with me for opportunities or collaborations.
+</h6>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+Full-Stack+Developer;Spring+Boot+•+REST+APIs;React+•+MySQL;Building+Scalable+Web+Applications" alt="Typing SVG" />
