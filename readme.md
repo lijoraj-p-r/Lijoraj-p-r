@@ -17,8 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔨 I’m currently working on a **Ominix-SpringBoot**
-- 🌱 Currently exploring   **Python**, and **AWS Cloud Services**
+- 🌱 Exploring **Artificial Intelligence**, **Neural Networks**, and modern technologies  
 - 📫 Reach me at: **[Portfolio Website](https://lijoraj-p-r.github.io/myportfolio/)**
 
 <br>
