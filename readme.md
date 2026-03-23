@@ -10,7 +10,7 @@ Hello, I am Lijoraj P R, an aspiring Java Full Stack Developer from India. I foc
 </p>
 
 <div align="center">
-  <a href="https://github.com/lijoraj-p-r/myportfolio/blob/main/media/Lijoraj.pdf" target="_blank">
+  <a href="https://github.com/lijoraj-p-r/myportfolio/blob/main/media/Lijoraj-resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </div>
